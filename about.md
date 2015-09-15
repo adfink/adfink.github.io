@@ -21,6 +21,7 @@ That's what this blog is about.  Wish me luck!
 ### some of the raw materials
 
 *Things I know about myself*
+
 I'm 24.
 I'm from Wisconsin.  
 I live in the Bay Area.  
@@ -35,9 +36,11 @@ I'm working on a master's degree in environmental engineering.
 ### additional raw materials
 
 *Things that I know about the world*
+
 I like vanilla, it's the finest of the flavors.
 
 *Things that I think about the world*
+
 I think there's something very good about life.
 I think it's easy to forget that when stuck in traffic.
 
