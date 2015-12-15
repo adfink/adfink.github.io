@@ -5,6 +5,7 @@ title: Light Things
 
 Contemplation 1
 ---------------
+testing 123
 
 We are all collections of light.  Bundled, up densified, animated, blobs of
 light that are suspended in this flux of light energy.  It feels like such a
@@ -13,7 +14,7 @@ for a moment how awesome that is.  The sun shines down on little 'ol earth, and
 all over it are these green things called plants that literally soak up
 the sunshine.  They reach out and grab onto it, and bottle it up.  They jam
 this stellar energy into the chemical bonds of sugars.  Then the rest of us
-heterotroph chumps come along and eat it.  We get a kick out of biting into an 
+heterotroph chumps come along and eat it.  We get a kick out of biting into an
 apple because our taste buds can feel the bottled up sunshine in the sweet
 sugar.  Our body recognizes that when it gets a hold of sugar, it's just a few
 easy steps away form uncorking that sunshine in cells throughout the body.  And
