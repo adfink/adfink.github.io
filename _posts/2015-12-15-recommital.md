@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Light Things
+title: Light Things // does it work?
 ---
 
-Contemplation 1
----------------
+Contemplation 1.1
+
 testing 123
 
 We are all collections of light.  Bundled, up densified, animated, blobs of
