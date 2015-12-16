@@ -4,19 +4,16 @@ title: About
 permalink: /about/
 ---
 
-I've never been so good at describing myself.
 
-This blog is an attempt to rectify that.  
+### What's the point?
 
-I hope that by writing about what I do and think and learn, I will be able to bring
-more coherence to this person I call me.
+To point out some cool things, and hopefully through writing (and through the thinking that writing requires), discover even more cool things!  
 
-I'm also hoping that writing will help me to drill deeper on some of the topics that most interest me.
-I've had this gnawing, back of the mind, deep in the gut sort of feeling for a while that I need to put more
-work into developing my passions.  That I've lazily chosen breadth over depth, and that the time is long
-over-due to become a man of depth.
+Also to pollute the internet with more, largely meaningless, drivel.
 
-That's what this blog is about.  Wish me luck!
+
+### About who's writing this crap
+
 
 ### some of the raw materials
 
@@ -41,7 +38,7 @@ I like vanilla, it's the finest of the flavors.
 
 *Things that I know about the world*
 
-It's big and round and small and flat. 
+It's big and round and small and flat.
 
 *Things that I think about the world*
 
@@ -50,3 +47,11 @@ I think it's easy to forget that when stuck in traffic.
 
 
 *this list is a work in progress*
+
+
+I've never been so good at describing myself.
+
+Maybe this blog will help rectify that. I hope it does.
+
+I hope that by writing about what I do and think and learn, I will be able to bring
+more coherence to this person I call me.  So I'll add to this as I go.
