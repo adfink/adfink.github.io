@@ -7,7 +7,7 @@ permalink: /about/
 
 ### What's the point?
 
-To point out some cool things, and hopefully through writing (and through the thinking that writing requires), discover even more cool things!  
+The point is to point out cool things, and hopefully through writing (and through the thinking that writing requires), discover even more cool things!  
 
 Also to pollute the internet with more, largely meaningless, drivel.
 

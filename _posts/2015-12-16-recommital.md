@@ -8,7 +8,7 @@ Contemplation 1
 The sun and stuff. So cool. Really really, actually, really, suuuper cool.
 
 First off the sun. So shiny and bright. More than a million times the size of earth just sitting
-there all thermonuclear like throwing off heat and light galore,
+there all thermonuclear-like throwing off heat and light galore,
 making it rain energy all day and (ironically) all night.  Literally
 smashing atoms together so hard that they stick.  All day all night for
 billions of years.  Whoa.  Talk about putting the team on your back.  Thanks sun!
@@ -47,6 +47,6 @@ way we are the universe's attempt at self-reflection.
 
 We are all collections of light. The plants that grow, grow off of collecting light, holding on to it, bundling it into chemical bonds and pushing it around. All life derives from these light bundles, all life is really a bundle of these bundles caught in a net, the light giving it shape and buoyancy, bumping jostling escaping and being caught again by another net. Until the net gets worn out, the spaces too big to hold the light bundles in... The light escapes, the net empties, it becomes limp, falls to the ground ... and then what?
 
-Now of course not all life derives from light energy.  There's those bad-ass worms and shit at the bottom of the ocean raising the middle finger to the system by subsisting off of energy from sulphuric vents.  They're the hipsters on the tree of life proving that there's always a different way of doing things.  But just like most hipster things, everyone knows it's really not as cool.  No one actually wants to live on the bottom of the ocean eating dirt.  I much prefer getting my energy beamed to me through space at light speed then conveniently packaged for me by Mr. Jolly Green Giant et al.  
+Now of course not all life derives from light energy.  There's those bad-ass worms and shit at the bottom of the ocean raising the middle finger to the system by subsisting off of energy from sulphuric vents.  They're the hipsters on the tree of life proving that there's always a different way of doing things.  But just like most hipster things, everyone knows it's really not that cool.  No one actually wants to live on the bottom of the ocean eating dirt.  I much prefer getting my energy beamed to me through space at light speed then conveniently packaged for me by Mr. Jolly Green Giant et al.  
 
-Sun, energy, the food-web, life.  So many cool things to think about. 
+Sun, energy, the food-web, life.  So many cool things to think about.
