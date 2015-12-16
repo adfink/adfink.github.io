@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About the site
 permalink: /about/
 ---
 
@@ -14,8 +14,7 @@ Also to pollute the internet with more, largely meaningless, drivel.
 
 ### About who's writing this crap
 
-
-### some of the raw materials
+# some of the raw materials
 
 *Things I know about myself*
 
@@ -26,11 +25,11 @@ I like plants, and trees, and dirt paths, and big skies.
 I like to rock climb.
 I'm working on a master's degree in environmental engineering.
 
-### I also know that my email address is...
+## I also know that my email address is...
 
 [andrewfink8@gmail.com](mailto:andrewfink8@gmail.com)
 
-### additional raw materials
+## additional raw materials
 
 *Things that I know about me*
 
