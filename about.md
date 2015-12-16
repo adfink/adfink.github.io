@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I've never been very good at describing myself, and I think that is a big problem.
+I've never been so good at describing myself.
 
 This blog is an attempt to rectify that.  
 
@@ -35,9 +35,13 @@ I'm working on a master's degree in environmental engineering.
 
 ### additional raw materials
 
-*Things that I know about the world*
+*Things that I know about me*
 
 I like vanilla, it's the finest of the flavors.
+
+*Things that I know about the world*
+
+It's big and round and small and flat. 
 
 *Things that I think about the world*
 
