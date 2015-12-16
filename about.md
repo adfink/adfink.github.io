@@ -12,9 +12,9 @@ To point out some cool things, and hopefully through writing (and through the th
 Also to pollute the internet with more, largely meaningless, drivel.
 
 
-### About who's writing this crap
+# About who's writing this crap
 
-# some of the raw materials
+### some of the raw materials
 
 *Things I know about myself*
 
