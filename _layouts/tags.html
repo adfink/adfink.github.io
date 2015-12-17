@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<p>wordssjdfkljsdl</p>
+<p>tag index</p>
 
 
 <ul class="tags">
@@ -10,8 +10,8 @@ layout: default
   {% assign posts = tag | last %}
   <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
 
-  <li><a class="tag_list_link" href="/tag/{{ tag }}">t click here</a></li>
-  <a class="tag_list_link" href="/tag/{{ t }}">t</a>
+
+  <li><a class="tag_list_link" href="/tags/{{ t }}">{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</a></li>
 {% endfor %}
 </ul>
 
