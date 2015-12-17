@@ -2,8 +2,8 @@
 layout: post
 title: Let there be words!
 tags:
-  - things
-  - framework
+  - stuff
+  - boring_stuff
 ---
 
 Thoughts for beginning.

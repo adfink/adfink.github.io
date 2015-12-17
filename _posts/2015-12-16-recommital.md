@@ -4,9 +4,12 @@ title: Light Things
 tags:
   - contemplations
   - things
+  - stuff
+  - stuf
+  - life
 ---
 
-Contemplation 1.8
+Contemplation 1.9
 
 The sun and stuff. So cool. Really really, actually, really, suuuper cool.
 
