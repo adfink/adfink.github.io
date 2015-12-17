@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Let there be words!
+tags:
+  - things
+  - framework
 ---
 
 Thoughts for beginning.
