@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About the site
+layout: tags
+title: tags and stuff
 permalink: /tags/
 ---
 this is the tag page
