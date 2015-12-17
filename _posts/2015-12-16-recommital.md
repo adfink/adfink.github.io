@@ -6,7 +6,7 @@ tags:
   - things
 ---
 
-Contemplation 1.5
+Contemplation 1.6
 
 The sun and stuff. So cool. Really really, actually, really, suuuper cool.
 
