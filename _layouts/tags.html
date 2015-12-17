@@ -9,6 +9,9 @@ layout: default
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
   <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+
+  <a class="tag_list_link" href="/tag/{{ tag }}">t</a>
+  <a class="tag_list_link" href="/tag/{{ t }}">t</a>
 {% endfor %}
 </ul>
 
