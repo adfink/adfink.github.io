@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<div class="entry">
+  {{ content }}
+
 <h2 class="post_title">{{page.title}}</h2>
 <ul>
   {% for post in site.posts %}
@@ -20,3 +23,4 @@ layout: default
 </ul>
 {{site.posts.tags}}
 {{site.posts.tags.things}}
+</div>
