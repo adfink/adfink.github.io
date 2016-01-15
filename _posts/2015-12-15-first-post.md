@@ -4,6 +4,7 @@ title: Let there be words!
 tags:
   - stuff
   - boring_stuff
+  - things_you_shouldnt_read
 ---
 
 Thoughts for beginning.
