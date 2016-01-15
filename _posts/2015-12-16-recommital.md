@@ -7,7 +7,7 @@ tags:
   - stuff
   - stuf
   - life
-  - things_you_shouldnt_read
+  - things_you_should_not_read
   - another_tag
 ---
 
