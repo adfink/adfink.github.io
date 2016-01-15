@@ -37,7 +37,8 @@ I like vanilla, it's the finest of the flavors.
 
 *Things that I know about the world*
 
-It's big and round and small and flat.
+It's big and round.
+It's also small and flat.
 
 *Things that I think about the world*
 
@@ -54,3 +55,25 @@ Maybe this blog will help rectify that. I hope it does.
 
 I hope that by writing about what I do and think and learn, I will be able to bring
 more coherence to this person I call me.  So I'll add to this as I go.
+
+
+
+
+
+## another attempt at the about page
+
+We all have thoughts.  Things like ideas pop into our minds sometimes.  Usually
+these things pop out of our minds just as fast.  They just poke in to say hello
+and then wander off into the ether to bother someone else.  Sometimes I like to
+grab onto these thoughts, these ideas, and take a closer look.  Roll them around,
+poke them back, toss them around and introduce them to other ideas that I see floating around.
+Sometimes it's fun to grab on to one of these mind pops and take them for a ride to
+a place they haven't been before and see what they'll do.  Sometimes it's fun to let the
+mind pops take you for a ride and have them introduce you to their friends.  Sometimes it's fun
+to try to draw these mind pops and paint their mannerisms, they're interactions, their friends, enemies
+jealosies guilts and dreams and distant cousins.  To pin them down just for a second to sketch their outline
+before letting them go.  Sometimes it's fun to file these sketches and paintings away in a scrapbook and
+arrange them with other mind pop sketches and stuff.   Sometimes it's color outside the lines of these
+sketches and fill in some extra details.  The funny thing is that mind pops love this shit.  They'll flock
+to this outside the line doodling like blood thirsty piranhas.  And when they come they'll be amenable to
+being sketched and introduced and taken for rides and giving rides and the whole process just keeps going.  Basically that's what this website is about.
