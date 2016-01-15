@@ -7,6 +7,8 @@ tags:
   - stuff
   - stuf
   - life
+  - things_you_shouldnt_read
+  - another_tag
 ---
 
 Contemplation 1.9

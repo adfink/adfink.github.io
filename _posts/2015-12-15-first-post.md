@@ -5,6 +5,8 @@ tags:
   - stuff
   - boring_stuff
   - things_you_shouldnt_read
+  - another_tag
+  - stuf
 ---
 
 Thoughts for beginning.
