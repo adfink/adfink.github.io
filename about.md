@@ -12,9 +12,9 @@ something between a social butterfly and a bloodthirsty piranha.
 
 We all have thoughts.  Things like ideas pop into our minds sometimes.  Usually
 these things pop out of our minds just as fast.  They just poke in to say hello
-and then wander off into the ether to bother someone else.  Sometimes I like to
+and then wander off into the ether to bother someone else.  Sometimes it's fun to
 grab onto these thoughts, these ideas, and take a closer look.  Roll them around,
-poke them back, toss them around and introduce them to other ideas that I see floating around.
+poke them back, toss them around and introduce them to other ideas that you see floating around.
 Sometimes it's fun to grab on to one of these mind pops and take them for a ride to
 a place they haven't been before and see what they'll do.  Sometimes it's fun to let the
 mind pops take you for a ride and have them introduce you to their friends.  Sometimes it's fun
