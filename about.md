@@ -30,6 +30,19 @@ sketches and fill in some extra details, to go off the script on a little riff o
 
 
 
+## about the authors
+
+one of the author's name is Drew.  He's 25 years old, was born and raised in Wisconsin, is currently a student at Stanford and really likes rocks and plants and dirt paths and wide open spaces.  Environmental engineering is his game and he's hoping to find a job soon...
+*guiding philosophies*
+I think there's something very good about life.
+I think it's easy to forget that when stuck in traffic.
+*other authors*
+TBA
+
+
+
+
+
 
 
 ## The other, really shitty version of the about page
@@ -48,7 +61,7 @@ Also to pollute the internet with more, largely meaningless, drivel.
 
 *Things I know about myself*
 
-I'm 24.
+I'm 25.
 I'm from Wisconsin.  
 I live in the Bay Area.  
 I like plants, and trees, and dirt paths, and big skies.
