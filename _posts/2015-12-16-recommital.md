@@ -13,7 +13,7 @@ tags:
 
 Contemplation 1.9
 
-The sun and stuff. So cool. Really really, actually, really, suuuper cool.
+The sun and stuff. So cool. Really *really*, *actually*, really, *suuuper* cool.
 
 First off the sun. So shiny and bright. More than a million times the size of earth just sitting
 there all thermonuclear-like throwing off heat and light galore,
@@ -27,7 +27,8 @@ But's what's even more nuts is the other stuff, the stuff that the sun makes pos
 
 We're that other stuff.  We are all collections of light.  Bundled, up densified, animated, blobs of
 light that are suspended in this flux of light energy.  It feels trite but it's
-true, at least partly true, and it's deserving of real consideration.
+true, at least partly true, and it's deserving of real consideration.  We are all collections of light.  Sounds like something my kindergarten teacher told me back in '95, and upon closer inspection she was right on the money, proving again that the nineties were indeed the glory days.  Let's consider.
+
 The sun shines down on little 'ol earth, and
 all over it are these green things called plants that literally soak up
 the sunshine (thanks plants!).  They reach out and grab onto it, and bottle it up.  They jam
