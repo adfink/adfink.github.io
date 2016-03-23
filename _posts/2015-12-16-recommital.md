@@ -3,24 +3,22 @@ layout: post
 title: Light Things
 tags:
   - contemplations
-  - things
-  - stuff
   - stuf
   - life
-  - things_you_should_not_read
-  - another_tag
 ---
 
-Contemplation 1.9
+Contemplation 1
 
 The sun and stuff. So cool. Really *really*, *actually*, really, *suuuper* cool.
 
 First off the sun. So shiny and bright. More than a million times the size of earth just sitting
 there all thermonuclear-like throwing off heat and light galore,
 making it rain energy all day and (ironically) all night.  Literally
-smashing atoms together so hard that they stick.  All day all night for
-billions of years.  Whoa.  Talk about putting the team on your back.  Thanks sun!
-It's nuts, it really is crazy.
+smashing atoms together so hard that they fuse.  
+
+All day all night for, billions of years.  
+
+Whoa.  Talk about putting the team on your back.  Thanks sun!  It's nuts, it really is crazy.
 But's what's even more nuts is the other stuff, the stuff that the sun makes possible here on earth.  
 
 
