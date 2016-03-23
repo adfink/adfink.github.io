@@ -9,7 +9,7 @@ tags:
 
 Contemplation 1
 
-The sun and stuff. So cool. Really *really*, *actually*, really, *suuuper* cool.
+The sun and stuff. So cool.
 
 First off the sun. So shiny and bright. More than a million times the size of earth just sitting
 there all thermonuclear-like throwing off heat and light galore,
